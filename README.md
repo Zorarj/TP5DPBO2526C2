@@ -64,3 +64,10 @@ src/
 ├── PersonMenu.java     # Logic GUI, Event Listener, dan Validasi
 └── PersonMenu.form     # Layout GUI Designer (IntelliJ IDEA)
 ```
+
+## Dokumentasi
+![alt](<dokumentasi/Screenshot 2026-10-17 210630.png>)
+![alt](<dokumentasi/Screenshot 2026-10-17 210659.png>)
+![alt](<dokumentasi/Screenshot 2026-10-17 210751.png>)
+![alt](<dokumentasi/Screenshot 2026-10-17 210813.png>)
+![alt](<dokumentasi/Screenshot 2026-10-17 212948.png>)
